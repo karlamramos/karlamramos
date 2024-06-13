@@ -10,3 +10,5 @@ informacoes_gerais = {
         "trabalho": "Experiência em dashboards e assistencia a gerencia",
 "mensagem": "Seja muito bem-vinde ao meu perfil do GitHub!"
 }
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
