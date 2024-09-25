@@ -3,7 +3,7 @@
 informacoes_gerais = {
 "nome": ["Karla Maria Ramos"],
 "interesses": ["Desenvolvimento", "IA", "Ciência de Dados", "Visão Computacional"],
-"linguagens": ["Python3"]
+"linguagens": ["Python3, Java "]
 "tecnologias": ["Em desenvolvimento]
 "ocupacoes": {
         "estudante": "Graduanda em Ciência de Dados na Mackenzie",
