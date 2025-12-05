@@ -1,4 +1,4 @@
-# Olá, eu sou a Karla Maria Ramos! 👋
+# Olá, eu sou a Karla Ramos! 👋
 
 🎯 **Analista de Dados em formação** | BI • SQL • Python • Power BI  
 📍 São José dos Campos – SP  
